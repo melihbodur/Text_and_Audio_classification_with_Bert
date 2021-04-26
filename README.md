@@ -1,15 +1,20 @@
 [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QIlNsVXXwpMp8u-BAYEW3BdUEzLbcoge#scrollTo=gZpF9_gP43PS)
 
-# Goal= Correctly guessing the classification of texts and sounds
+Goal= Correctly guessing the classification of texts and sounds
+
 
 # BERT_Text_Classification
 
 It is a text classification task implementation transformers (by HuggingFace) with BERT. It contains several parts:
 
 --Data pre-processing
+
 --BERT tokenization and input formating
+
 --Train with BERT
+
 --Evaluation
+
 --Save and load saved model
 
 
