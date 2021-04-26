@@ -8,4 +8,6 @@ The purpose of this Repository is to allow text classification to be easily perf
 
 Implemented based on Huggingfcae transformers for quick and convenient implementation.
 
+[![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QIlNsVXXwpMp8u-BAYEW3BdUEzLbcoge#scrollTo=-QRsepGRu88K)
+
 
