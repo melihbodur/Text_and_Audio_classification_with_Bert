@@ -38,6 +38,28 @@ Implemented based on Huggingfcae transformers for quick and convenient implement
 
 ![image](https://user-images.githubusercontent.com/75432070/116162741-138fe200-a6ff-11eb-8e6a-4ace3b632146.png)
 
+## ☄️ Available models
+
+![image](https://user-images.githubusercontent.com/75432070/116162874-52259c80-a6ff-11eb-9a94-4fd392991ceb.png)
+
+## 🏴‍☠️ Model Performance
+
+![image](https://user-images.githubusercontent.com/75432070/116163079-bcd6d800-a6ff-11eb-8ba8-a7af66cfebb1.png)
+
+
+## Predictions Vs Actuals
+
+![image](https://user-images.githubusercontent.com/75432070/116162959-7d0ff080-a6ff-11eb-9ee4-433344f62ccc.png)
+
+## 🃏 predictor
+
+![image](https://user-images.githubusercontent.com/75432070/116163105-cd874e00-a6ff-11eb-8328-ef899be3175c.png)
+#### 97.22 📈 
+
+
+
+
+
 
 
 
