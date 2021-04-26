@@ -1,6 +1,6 @@
 [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QIlNsVXXwpMp8u-BAYEW3BdUEzLbcoge#scrollTo=gZpF9_gP43PS)
 
-Goal= Correctly guessing the classification of texts and sounds
+Goal= Correctly guessing the classification of texts and audios
 
 
 # BERT_Text_Classification
