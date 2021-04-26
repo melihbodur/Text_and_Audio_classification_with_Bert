@@ -29,4 +29,16 @@ The purpose of this Repository is to allow text classification to be easily perf
 Implemented based on Huggingfcae transformers for quick and convenient implementation.
 
 
+## 📝 read_dataset
+
+![image](https://user-images.githubusercontent.com/75432070/116162577-c27fee00-a6fe-11eb-8d7a-794bafd05e29.png)
+3061 rows
+
+## Unique Categories
+
+![image](https://user-images.githubusercontent.com/75432070/116162741-138fe200-a6ff-11eb-8e6a-4ace3b632146.png)
+
+
+
+
 
