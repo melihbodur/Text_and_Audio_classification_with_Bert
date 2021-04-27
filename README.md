@@ -2,6 +2,8 @@
 
 [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QIlNsVXXwpMp8u-BAYEW3BdUEzLbcoge#scrollTo=gZpF9_gP43PS)
 
+[<img alt="Youtube" src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/watch?v=26PhT9U9_XE&t)
+
 Goal= Correctly guessing the classification of texts and audios
 
 
