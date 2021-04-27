@@ -32,6 +32,7 @@ Implemented based on Huggingfcae transformers for quick and convenient implement
 ## 📝 read_dataset
 
 ![image](https://user-images.githubusercontent.com/75432070/116162577-c27fee00-a6fe-11eb-8d7a-794bafd05e29.png)
+
 3061 rows
 
 ## Unique Categories
