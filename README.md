@@ -1,6 +1,6 @@
-![image](https://user-images.githubusercontent.com/75432070/116165676-070e8800-a705-11eb-8d51-4c5b0f6529ae.png)
 
-[![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QIlNsVXXwpMp8u-BAYEW3BdUEzLbcoge#scrollTo=gZpF9_gP43PS)
+
+[![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QIlNsVXXwpMp8u-BAYEW3BdUEzLbcoge#scrollTo=gZpF9_gP43PS)![image](https://user-images.githubusercontent.com/75432070/116165676-070e8800-a705-11eb-8d51-4c5b0f6529ae.png)
 
 Goal= Correctly guessing the classification of texts and audios
 
