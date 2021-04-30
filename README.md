@@ -4,7 +4,8 @@
 
 [<img alt="Youtube" src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/watch?v=26PhT9U9_XE&t)
 
-## If you want to reach the model file, please  send an e-mail to melih bdr.1995@gmail.com
+## If you want to reach the model file, please  send an e-mail
+melihbdr.1995@gmail.com
 
 ## Project Interface
 
