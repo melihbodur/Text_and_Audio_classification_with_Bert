@@ -4,6 +4,11 @@
 
 [<img alt="Youtube" src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/watch?v=26PhT9U9_XE&t)
 
+# Project Interface
+
+![image](https://user-images.githubusercontent.com/75432070/116761292-e2c1ec80-aa1f-11eb-89ff-10562c286fa2.png)
+
+
 Goal= Correctly guessing the classification of texts and audios
 
 
